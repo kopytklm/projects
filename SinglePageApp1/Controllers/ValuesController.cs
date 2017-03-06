@@ -6,7 +6,7 @@
     {
         public IHttpActionResult GetValues()
         {
-            return Ok(new[] { "a", "b", "c" });
+            return Ok(new[] { "a", "b", "c", "d" });
         }
     }
 }
